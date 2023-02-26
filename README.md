@@ -1,5 +1,5 @@
 <h1 align="center">Hi guys👋</h1>
-- 🌱 I’m currently learning **Laravel**
+- 🌱 I’m currently learning <b>Laravel</b>
 
 - 📫 How to reach me : **nguyenquocvu10a2@gmail.**
 
