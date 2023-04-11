@@ -1,9 +1,9 @@
 <h1 align="center">Hi guys👋</h1> </br>
-- 🌱 I’m currently learning <b>Laravel</b>
+🌱 I’m currently learning <b>Laravel</b>
 
-- 📫 How to reach me : **nguyenquocvu10a2@gmail.**
+📫 How to reach me : **nguyenquocvu10a2@gmail.**
 
-- ⚡ Fun fact : **I'm a huge Marvel fan**
+⚡ Fun fact : **I'm a huge Marvel fan**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
