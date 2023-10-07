@@ -4,7 +4,6 @@
 
 📫 How to reach me : **nguyenquocvu003@gmail.**
 
-⚡ Fun fact : **I'm a huge Marvel fan**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
