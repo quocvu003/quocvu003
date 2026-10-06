@@ -3,8 +3,6 @@
 
 - 📫 How to reach me **nguyenquocvu003@gmail.com**
 
-- 📄 Know about my experiences [https://byvn.net/7Tim](https://byvn.net/7Tim)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/quocvu003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="quocvu003" height="30" width="40" /></a>
