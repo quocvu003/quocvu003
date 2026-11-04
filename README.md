@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nguyen Quoc Vu</h1>
-<h3 align="center">A passionate Back-end Developer</h3>
+<h3 align="center">Software Engineer</h3>
 
 - 📫 How to reach me **nguyenquocvu003@gmail.com**
 
